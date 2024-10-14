@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  /* background: url("https://www.leadquizzes.com/wp-content/uploads/2019/02/New-blog-graphic.jpg"); */
+  background: url("https://media.istockphoto.com/id/1339908748/vector/new-realistic-neon-sign-of-quiz-frame-logo-for-decoration-and-covering-on-the-dark-wall.jpg?s=612x612&w=0&k=20&c=Qn97UPTD2E-MXDC9khiDW9vQglFtjNCFvCtF0EkiDP8=");
+  /* background-position: center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-color: #f9f9f9; */
+}
